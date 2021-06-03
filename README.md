@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://natalliasdh.github.io/stats-preview/)
+- Live Site URL: [https://natalliasdh.github.io/stats-preview/]
 
 ### Built with
 
